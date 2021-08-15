@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d00m4n from Catalonia, Spain
 - 👀 I’m interested in programing, automating all ^_^
-- 🌱 I’m currently learning python and powershe
+- 🌱 I’m currently learning python and powershell
 - 💞️ I’m looking to collaborate on nothing at this moment, just learning.
 - 📫 No email at this moment.
 
